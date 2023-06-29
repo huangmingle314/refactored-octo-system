@@ -1,4 +1,4 @@
-# drug predictive score function
+# Drug prediction score function
 ## Step1 prepare
 You should prepare the gene expression matrix in csv format with gene as column, sample in row.
 ## Step2 run
